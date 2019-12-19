@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", sans-serrif;
+    background: rgb(37, 37, 37);
+    color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    background: gray;
+    padding: 15px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.clock {
+    font-size: 47px;
+    margin: 15% auto;
+    border: 2px solid gray;
+    padding: 20px;
+    width: 80%;
+}
